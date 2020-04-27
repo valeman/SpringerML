@@ -3,7 +3,7 @@ Downloads free Machine Learning and Data books from Springer
 
 Python script to download all free Springer Machine Learning and data books: https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
 
-#Required libraries
+# Required libraries
 
 - [bs4](https://pypi.org/project/bs4/) (beautifulsoup4)
 - [requests](https://pypi.org/project/requests/)
